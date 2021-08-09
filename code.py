@@ -12,8 +12,7 @@ def display(Num):
     else :
         print("Invalid")
         
-
-# Main code
+        # Main code
 if __name__ == "__main__" :
     
     Num = 9
