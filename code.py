@@ -9,6 +9,7 @@ def display(Num):
     elif Num % 5 == 0 :
         print("Zap")
         
+        
     else :
         print("Invalid")
         
